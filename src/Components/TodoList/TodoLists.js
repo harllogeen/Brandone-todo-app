@@ -81,7 +81,7 @@ const TodoLists = () => {
           <h1 className=" text-3xl text-sky-900 font-bold items-center text-center pb-4">
             BrandOne Todo-List App
           </h1>
-          <div className="p-6 bg-slate-700  flex gap-4 justify-center ">
+          <div className="p-6 bg-slate-700  flex gap-4 justify-center rounded-t-2xl ">
             <input
               className=" bg-slate-100 rounded-md w-96 pl-3 "
               type="text"

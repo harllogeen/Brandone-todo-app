@@ -5,7 +5,7 @@ const App = () => {
   const [task, setTask] = useState("");
   const [todos, setTodos] = useState([]);
   const [isEditing, setIsEditing] = useState(false);
-  const [editId, setEditId] = useState(null);
+ 
   const [newTodoTitle, setNewTodoTitle] = useState("");
 
 
